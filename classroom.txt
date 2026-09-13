@@ -1,1 +1,1 @@
-Maximum students allowed: 50
+Maximum students allowed: 30
