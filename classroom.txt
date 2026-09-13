@@ -1,1 +1,2 @@
 Maximum students allowed: 30
+Opening time: 9:00 AM
